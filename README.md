@@ -37,7 +37,7 @@ Analyze this telemetry data to answer the following:
   - The machines contributing to it
 -  `Result.png`
 
----
+
 
 ## Task 2: Forensic Technology – Pay Equality Analysis
 
@@ -63,7 +63,6 @@ Added a **4th column** called `Equality Class` based on rules:
 - Updated Excel file with `Equality Class` labels
 - `Equality Table Classified.xlsx`
 
----
 
 ## Skills & Tools Applied
 
